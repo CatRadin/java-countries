@@ -5,14 +5,14 @@
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
-        <version>2.4.3</version>
+        <version>2.2.8.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.lambdaschool.countrysearch</groupId>
     <artifactId>countrysearch</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>countrysearch</name>
-    <description>project for shcool</description>
+    <description>project for school</description>
     <properties>
         <java.version>11</java.version>
     </properties>
